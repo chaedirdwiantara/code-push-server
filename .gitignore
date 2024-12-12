@@ -31,7 +31,7 @@ node_modules
 */bin/
 
 # Environment variables
-*.env
+
 
 # Test uploads and downloads
 /uploads
